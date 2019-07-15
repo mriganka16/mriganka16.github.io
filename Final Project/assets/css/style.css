@@ -258,41 +258,47 @@ body{
 	cursor: pointer;
 }
 
-.fb {
+.fb a{
 	position: absolute;
 	font-size: 18px;
 	padding: 8px;
 	left: 220px;
 	top: 10%;
+	text-decoration: none;
+	color: #5B2333; 
 }
 
-.fb:hover {
+.fb a:hover {
 	background-color: #5B2333;
 	color: white;
 }
 
-.insta {
+.insta a{
 	position: absolute;
 	font-size: 18px;
 	padding: 8px;
 	left: 90px;
-	top: 10%
+	top: 10%;
+	text-decoration: none;
+	color: #5B2333; 
 }
 
-.insta:hover {
+.insta a:hover {
 	background-color: #5B2333;
 	color: white;
 }
 
-.linkedin {
+.linkedin a{
 	position: absolute;
 	font-size: 18px;
 	padding: 8px;
 	left: -30px;
-	top: 10%
+	top: 10%;
+	text-decoration: none;
+	color: #5B2333; 
 }
 
-.linkedin:hover {
+.linkedin a:hover {
 	background-color: #5B2333;
 	color: white;
 }
